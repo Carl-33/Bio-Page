@@ -1,13 +1,25 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+h1 {
+    color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 .navbar-brand {
     background-color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-ul {
-    float: right;
+.btn {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hero {
+    background-image: url("Background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
 }
