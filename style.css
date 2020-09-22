@@ -9,7 +9,11 @@ h1 {
 .navbar-brand {
     background-color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
+}
+img {
+    max-width: 200px;
+    float: left;
+    margin-right: 10px;
 }
 .btn {
     background-color: #4aaaa5;
