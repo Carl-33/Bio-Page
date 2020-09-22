@@ -10,6 +10,13 @@ h1 {
     background-color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.portfolio {
+    /* max-width: 200px; */
+    margin: 10px;
+
+
+
+}
 img {
     max-width: 200px;
     float: left;
