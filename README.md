@@ -10,11 +10,11 @@ https://carl-33.github.io/Bio-Page/index.html
 
 On larger screens, click on the links in the navbar to travel between the various pages.
 
-![Navbar Image](https://github.com/Carl-33/Bio-Page/tree/master/Assets/navbar.jpg?raw=true)
+![Navbar Image](Assets/Navbar.JPG)
 
 On smaller screens, click on the hamburger in the top right corner to open up navigation options.  
 
-![Navbar Burger Image](https://github.com/Carl-33/Bio-Page/tree/master/Assets/navbar-burger.jpg?raw=true)
+![Navbar Burger Image](Assets/Navbar-Burger.JPG)
 
 
 Resize the pages using something like developer tools to see the reformating in action.
