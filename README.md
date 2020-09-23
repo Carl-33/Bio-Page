@@ -4,15 +4,18 @@ This is a Bio-Page that links to a contact and a portfolio page.  The pages are 
 
 ## Links
 
+https://carl-33.github.io/Bio-Page/index.html
+
 ## Usage Instructions
 
 On larger screens, click on the links in the navbar to travel between the various pages.
 
-![Navbar Image](assets/navbar.jpg)
+![Navbar Image](https://github.com/Carl-33/Bio-Page/tree/master/Assets/navbar.jpg?raw=true)
 
 On smaller screens, click on the hamburger in the top right corner to open up navigation options.  
 
-![Navbar Burger Image](assets/navbar-burger.jpg)
+![Navbar Burger Image](https://github.com/Carl-33/Bio-Page/tree/master/Assets/navbar-burger.jpg?raw=true)
+
 
 Resize the pages using something like developer tools to see the reformating in action.
 
