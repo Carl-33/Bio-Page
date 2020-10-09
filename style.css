@@ -13,6 +13,7 @@ h1 {
 .portfolio {
     margin: 10px;
     max-width: 200px;
+    color: #4aaaa5;
 }
 .Profile-Picture {
     max-width: 200px;
@@ -31,7 +32,7 @@ h1 {
     position: relative;
 
 }
-span {
-    text-align: center;
-    padding-top: 10px;
+a {
+    background-color: #4aaaa5;;
 }
+
